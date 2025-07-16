@@ -234,20 +234,20 @@ function HomeContent() {
   <meta name="description" content="" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   {/* <link rel="manifest" href="site.webmanifest"> */}
-  <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.png" />
   {/* Place favicon.ico in the root directory */}
   {/* CSS here */}
-  <link rel="stylesheet" href="public/css/bootstrap.min.css" />
-  <link rel="stylesheet" href="public/css/owl.carousel.min.css" />
-  <link rel="stylesheet" href="public/css/magnific-popup.css" />
-  <link rel="stylesheet" href="public/css/font-awesome.min.css" />
-  <link rel="stylesheet" href="public/css/themify-icons.css" />
-  <link rel="stylesheet" href="public/css/nice-select.css" />
-  <link rel="stylesheet" href="public/css/flaticon.css" />
-  <link rel="stylesheet" href="public/css/gijgo.css" />
-  <link rel="stylesheet" href="public/css/animate.css" />
-  <link rel="stylesheet" href="public/css/slicknav.css" />
-  <link rel="stylesheet" href="public/css/style.css" />
+  <link rel="stylesheet" href="/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/css/owl.carousel.min.css" />
+  <link rel="stylesheet" href="/css/magnific-popup.css" />
+  <link rel="stylesheet" href="/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="/css/themify-icons.css" />
+  <link rel="stylesheet" href="/css/nice-select.css" />
+  <link rel="stylesheet" href="/css/flaticon.css" />
+  <link rel="stylesheet" href="/css/gijgo.css" />
+  <link rel="stylesheet" href="/css/animate.css" />
+  <link rel="stylesheet" href="/css/slicknav.css" />
+  <link rel="stylesheet" href="/css/style.css" />
   {/* <link rel="stylesheet" href="css/responsive.css"> */}
   {/*[if lte IE 9]>
       <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
@@ -297,7 +297,7 @@ function HomeContent() {
           <div className="single_reson">
             <div className="thum">
               <div className="thum_1">
-                <img src="img/help/1.png" alt="" />
+                <img src="/img/help/1.png" alt="" />
               </div>
             </div>
             <div className="help_content">
@@ -316,7 +316,7 @@ function HomeContent() {
           <div className="single_reson">
             <div className="thum">
               <div className="thum_1">
-                <img src="img/help/2.png" alt="" />
+                <img src="/img/help/2.png" alt="" />
               </div>
             </div>
             <div className="help_content">
@@ -335,7 +335,7 @@ function HomeContent() {
           <div className="single_reson">
             <div className="thum">
               <div className="thum_1">
-                <img src="img/help/3.png" alt="" />
+                <img src="/img/help/3.png" alt="" />
               </div>
             </div>
             <div className="help_content">
@@ -414,7 +414,7 @@ function HomeContent() {
           <div className="causes_active owl-carousel">
             <div className="single_cause">
               <div className="thumb">
-                <img src="img/causes/1.png" alt="" />
+                <img src="/img/causes/1.png" alt="" />
               </div>
               <div className="causes_content">
                 <div className="custom_progress_bar">
@@ -447,7 +447,7 @@ function HomeContent() {
             </div>
             <div className="single_cause">
               <div className="thumb">
-                <img src="img/causes/2.png" alt="" />
+                <img src="/img/causes/2.png" alt="" />
               </div>
               <div className="causes_content">
                 <div className="custom_progress_bar">
@@ -480,7 +480,7 @@ function HomeContent() {
             </div>
             <div className="single_cause">
               <div className="thumb">
-                <img src="img/causes/3.png" alt="" />
+                <img src="/img/causes/3.png" alt="" />
               </div>
               <div className="causes_content">
                 <div className="custom_progress_bar">
@@ -513,7 +513,7 @@ function HomeContent() {
             </div>
             <div className="single_cause">
               <div className="thumb">
-                <img src="img/causes/1.png" alt="" />
+                <img src="/img/causes/1.png" alt="" />
               </div>
               <div className="causes_content">
                 <div className="custom_progress_bar">
@@ -620,7 +620,7 @@ function HomeContent() {
         <div className="col-lg-4 col-md-6">
           <div className="single_volenteer">
             <div className="volenteer_thumb">
-              <img src="img/volenteer/1.png" alt="" />
+              <img src="/img/volenteer/1.png" alt="" />
             </div>
             <div className="voolenteer_info d-flex align-items-end">
               <div className="social_links">
@@ -661,7 +661,7 @@ function HomeContent() {
         <div className="col-lg-4 col-md-6">
           <div className="single_volenteer">
             <div className="volenteer_thumb">
-              <img src="img/volenteer/2.png" alt="" />
+              <img src="/img/volenteer/2.png" alt="" />
             </div>
             <div className="voolenteer_info d-flex align-items-end">
               <div className="social_links">
@@ -702,7 +702,7 @@ function HomeContent() {
         <div className="col-lg-4 col-md-6">
           <div className="single_volenteer">
             <div className="volenteer_thumb">
-              <img src="img/volenteer/3.png" alt="" />
+              <img src="/img/volenteer/3.png" alt="" />
             </div>
             <div className="voolenteer_info d-flex align-items-end">
               <div className="social_links">
@@ -884,7 +884,7 @@ function HomeContent() {
             <div className="footer_widget">
               <div className="footer_logo">
                 <a href="#">
-                  <img src="img/footer_logo.png" alt="" />
+                  <img src="/img/footer_logo.png" alt="" />
                 </a>
               </div>
               <p className="address_text">
@@ -961,7 +961,7 @@ function HomeContent() {
                 <li>
                   <div className="thumb">
                     <a href="#">
-                      <img src="img/news/news_1.png" alt="" />
+                      <img src="/img/news/news_1.png" alt="" />
                     </a>
                   </div>
                   <div className="info">
@@ -974,7 +974,7 @@ function HomeContent() {
                 <li>
                   <div className="thumb">
                     <a href="#">
-                      <img src="img/news/news_2.png" alt="" />
+                      <img src="/img/news/news_2.png" alt="" />
                     </a>
                   </div>
                   <div className="info">
